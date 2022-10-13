@@ -10,7 +10,7 @@ and always looking to find patterns of which are helful in learning Back-end Dev
 
  💬 About me ...<br>
 <ul>
-  <li>🌱🌱 I’m currently learning Springboot,Hibernate</li>
+  <li>🌱🌱 I’m currently learning Node JS,Express,MongoDB,React</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
 <!--   <li>📰 My First Web Page_____________</li> -->
 </ul>
@@ -18,7 +18,7 @@ and always looking to find patterns of which are helful in learning Back-end Dev
 <ul>
   <li>Open source Projects</li>
   <!-- <li>Full-stack Development</li> -->
-  <li>Java Back-end Development</li>
+  <li>Mern Back-end Development</li>
 </ul>
 
 
@@ -38,10 +38,10 @@ Here are some ideas to get you started:
 -->
 <br/>
 ❤ Views and Followers <br/>
-<!-- <a href="https://twitter.com/MTazammul">
+<!-- <a href="https://twitter.com/SubodhP21161089">
   <img align="left" alt="Mohd Tazammul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/nitish009/">
+<a href="https://www.linkedin.com/in/subodh-pal-285474233/">
   <img align="left" alt="Tazammul's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
