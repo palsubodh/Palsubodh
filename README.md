@@ -39,24 +39,24 @@ Here are some ideas to get you started:
 <br/>
 ❤ Views and Followers <br/>
 <!-- <a href="https://twitter.com/SubodhP21161089">
-  <img align="left" alt="Mohd Tazammul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Subodh Pal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/subodh-pal-285474233/">
-  <img align="left" alt="Tazammul's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
+  <img align="left" alt="Subodh Pal LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
-<a href="https://leetcode.com/nitish905/">
-  <img align="left" alt="Tazammul's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
+<a href="https://leetcode.com/SubodhPal/">
+  <img align="left" alt="Subodh Pal Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
 
-<a href="https://www.hackerrank.com/nk08522015">
-  <img align="left" alt="Tazammul's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
+<a href="https://www.hackerrank.com/palsubodh390">
+  <img align="left" alt="Subodh Pal Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
 </a>
-<!-- <a href="https://github.com/nitish906?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<!-- <a href="https://github.com/palsubodh?tab=followers"><img src="https://img.shields.io/github/followers/nitish906?label=Followers&style=social" alt="GitHub Badge"></a> -->
 
 <p align="left">
-<!-- <a href = "https://www.linkedin.com/in/nitish009/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+<!-- <a href = "https://www.linkedin.com/in/subodh-pal-285474233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
 <!-- <a href = "https://www.instagram.com/__its__me__dude__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 </p>
 <br/>
@@ -90,9 +90,9 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=nitish906&theme=xcode">
+<img src="https://activity-graph.herokuapp.com/graph?username=palsubodh&theme=xcode">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nitish906&theme=monokai&row=1&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=palsubodh&theme=monokai&row=1&column=4">
 <h3>When not coding:</h3>
 Reading Novels 📚<br>
 Writing(Blog & Contend) ✍️<br>
