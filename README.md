@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Subodh+Pal!;Learning+Front-end+Developer...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Subodh+Pal!;Learning+Full-Stack+Developer...;" style="width: 100%;">
 
 
 Hello, I am a passionate self-learner  and a Front-end Devloper,
@@ -10,7 +10,7 @@ and always looking to find patterns of which are helful in learning Back-end Dev
 
  💬 About me ...<br>
 <ul>
-  <li>🌱🌱 I’m currently learning Node JS,Express,MongoDB,React</li>
+  <li>🌱🌱 I’m currently learning HTML5,CSS3,JavaScript,Advance JavaScript, Node JS, Express, MongoDB, React</li>
 <li>🔭 I’m looking to collaborate with any Web Devlopment projects</li>
 <!--   <li>📰 My First Web Page_____________</li> -->
 </ul>
