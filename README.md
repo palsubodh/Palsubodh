@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Subodh+Pal!;Learning+Backend-+Developer...;" style="width: 100%;">
 
 
-Hello, I am a passionate self-learner  and a Front-end Devloper,
-and always looking to find patterns of which are helful in learning Back-end Development
+Hello, I am a passionate self-learner  and a Back-end Devloper,
+and always looking to find patterns of which are helful in learning Front-end Development
  
 
 
